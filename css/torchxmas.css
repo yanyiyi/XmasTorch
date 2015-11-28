@@ -1,0 +1,147 @@
+body{
+margin-top: 50px;
+}
+
+.xmcontainer{
+	padding-left: 50px;
+	padding-right:50px;
+}
+.h_banner{
+	background-color: #35a1bb;
+	background-image: url(../img/2015-xmas-web_banner-950x250.jpg);
+	background-size:contain;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 250px;
+}
+
+.link_1,.link_2,.link_3,.link_4{
+	display: block;
+	background-color: transparent;
+	margin-bottom: 20px;
+}
+
+.linkinfo{
+	width:100%;
+	min-height: 600px;
+	padding-bottom: 10px;
+}
+.morebtn{
+	text-align: center;
+}
+.morebtn a{
+	width: 100%;
+}
+.linkinfo .infointro{
+
+	min-height: 350px;
+}
+
+.linkinfo h3,.linkinfo h4,.linkinfo p,.morebtn{
+	margin: 10px;
+}
+.link_1 .linkinfo,.link_3 .linkinfo,.link_5 .linkinfo{
+	background-color: #89e0d7;
+
+}
+.link_4 .linkinfo,.link_2 .linkinfo{
+	background-color: #efefef;
+}
+
+.hl{
+	color: #19596b;
+	font-weight: bolder;
+}
+
+.linkimg{
+	width: 100%;
+}
+.intro{
+	margin-top: 40px;
+}
+
+.movie{
+	background-color: #35a1bb;
+	margin-bottom: 20px;
+	width: 100%;
+}
+.tubeframe{
+	height: 320px;
+	margin-bottom: 20px;
+}
+
+@media (max-width: 767px){
+	body{
+		margin-top: 50px;
+	}
+	.h_banner{
+		height: 125px;
+		background-image: url(../img/2015-xmas-web-OL_banner-640x125.png);
+
+	}
+	 .infointro,.linkinfo,.morebtn{
+	 	display: none;
+	 	padding: 0px;
+	 }
+	 .link_1,.link_2,.link_3,.link_4{
+		display: block;
+		margin: 0px;
+		padding: 0px;
+	}
+	.movie{
+		margin-bottom: 0px;
+	}
+	.tubeframe{
+		height: 160px;
+	}
+	.phones{
+		padding: 0px;
+	}
+
+}
+
+
+
+@media (min-width: 768px){
+	body{
+	margin-top: 75px;
+	}
+
+	.link_3 .linkinfo{
+		background-color: #efefef;
+
+	}
+	.link_4 .linkinfo{
+		background-color: #89e0d7;
+
+	}
+
+
+}
+
+@media (min-width: 992px){
+	body{
+	margin-top: 50px;
+
+	}
+	.link_3 .linkinfo{
+		background-color: #89e0d7;
+
+	}
+	.link_4 .linkinfo{
+		background-color: #efefef;
+
+	}
+}
+
+footer{
+	background-color: #35a1bb;		
+	}
+footer .fbanner{
+	background-color: #35a1bb;
+	background-image: url(../img/2015-xmas-web_banner-950x250.jpg);
+	background-size:contain;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 250px;
+}
