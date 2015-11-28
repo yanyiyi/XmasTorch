@@ -62,12 +62,17 @@ margin-top: 50px;
 
 .movie{
 	background-color: #e9e5e6;
+    padding: 0px;
+    padding-bottom: 56.25%;
 	margin-bottom: 20px;
 	width: 100%;
+    position: relative;
 }
+
 .tubeframe{
-	height: 320px;
-	margin-bottom: 20px;
+	height: 100%;
+    width: 100%;
+    position: absolute;
 }
 
 @media (max-width: 767px){
@@ -91,9 +96,7 @@ margin-top: 50px;
 	.movie{
 		margin-bottom: 0px;
 	}
-	.tubeframe{
-		height: 160px;
-	}
+
 	.phones{
 		padding: 0px;
 	}
