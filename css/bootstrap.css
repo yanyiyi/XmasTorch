@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=fbd07bdfec115ac32829)
- * Config saved to config.json and https://gist.github.com/fbd07bdfec115ac32829
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=9ba68db9e621e9157279)
+ * Config saved to config.json and https://gist.github.com/9ba68db9e621e9157279
  */
 /*!
  * Bootstrap v3.3.6 (http://getbootstrap.com)
@@ -1092,7 +1092,7 @@ body {
   font-size: 14px;
   line-height: 1.42857143;
   color: #333333;
-  background-color: #d1d3d4;
+  background-color: #35a1bb;
 }
 input,
 button,
@@ -1137,7 +1137,7 @@ img {
 .img-thumbnail {
   padding: 4px;
   line-height: 1.42857143;
-  background-color: #d1d3d4;
+  background-color: #35a1bb;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -3163,7 +3163,7 @@ th {
   border-top: 2px solid #dddddd;
 }
 .table .table {
-  background-color: #d1d3d4;
+  background-color: #35a1bb;
 }
 .table-condensed > thead > tr > th,
 .table-condensed > tbody > tr > th,
@@ -4908,7 +4908,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-tabs > li.active > a:hover,
 .nav-tabs > li.active > a:focus {
   color: #555555;
-  background-color: #d1d3d4;
+  background-color: #35a1bb;
   border: 1px solid #dddddd;
   border-bottom-color: transparent;
   cursor: default;
@@ -4954,7 +4954,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs.nav-justified > .active > a,
   .nav-tabs.nav-justified > .active > a:hover,
   .nav-tabs.nav-justified > .active > a:focus {
-    border-bottom-color: #d1d3d4;
+    border-bottom-color: #35a1bb;
   }
 }
 .nav-pills > li {
@@ -5022,7 +5022,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   .nav-tabs-justified > .active > a,
   .nav-tabs-justified > .active > a:hover,
   .nav-tabs-justified > .active > a:focus {
-    border-bottom-color: #d1d3d4;
+    border-bottom-color: #35a1bb;
   }
 }
 .tab-content > .tab-pane {
@@ -5876,7 +5876,7 @@ a.badge:focus {
   padding: 4px;
   margin-bottom: 20px;
   line-height: 1.42857143;
-  background-color: #d1d3d4;
+  background-color: #35a1bb;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: border 0.2s ease-in-out;
