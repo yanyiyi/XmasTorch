@@ -7,7 +7,7 @@ margin-top: 50px;
 	padding-right:50px;
 }
 .h_banner{
-	background-color: #35a1bb;
+	background-color: #e9e5e6;
 	background-image: url(../img/2015-xmas-web_banner-950x250.jpg);
 	background-size:contain;
 	background-position: center center;
@@ -61,7 +61,7 @@ margin-top: 50px;
 }
 
 .movie{
-	background-color: #d1d3d4;
+	background-color: #e9e5e6;
 	margin-bottom: 20px;
 	width: 100%;
 }
@@ -135,10 +135,10 @@ margin-top: 50px;
 }
 
 footer{
-	background-color: #35a1bb;		
+	background-color: #e9e5e6;	
 	}
 footer .fbanner{
-	background-color: #35a1bb;
+	background-color: #e9e5e6;
 	background-image: url(../img/2015-xmas-web_banner-950x250.jpg);
 	background-size:contain;
 	background-position: center center;

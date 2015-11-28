@@ -1,8 +1,8 @@
 
 
 .h_banner{
-	background-color: #ffd900;
-	background-image: url(../img/2014-xmas-web-OL_High-950x250.png);
+	background-color: #fff;
+	background-image: url(../img/2015-xmas-web-OL_High-950x250.png);
 	background-size:contain;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -13,12 +13,12 @@
 .maininfo{
 
 	width: 100%;
-	background-color: #ffd900;
+	background-color: #88dfd6;
 }
 
 
 .row{
-	background-color: #ffd900;}
+	background-color: #88dfd6;}
 
 .maps{
 	width:80%;
@@ -31,7 +31,7 @@
 	
 	.h_banner{
 		height: 125px;
-		background-image: url(../img/2014-xmas-web_high-640x150.jpg);
+		background-image: url(../img/2015-xmas-web_high-640x150.jpg);
 
 	}
 	.maininfo{
@@ -48,5 +48,5 @@
 
 }
 .hl{
-	color: #FFF;
+	color: #19596b;
 }
