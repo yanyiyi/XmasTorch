@@ -80,9 +80,9 @@ margin-top: 50px;
 		margin-top: 50px;
 	}
 	.h_banner{
-		height: 125px;
+		
 		background-image: url(../img/2015-xmas-web-OL_banner-640x125.png);
-
+padding-bottom: 23.4375%;
 	}
 	 .infointro,.linkinfo,.morebtn{
 	 	display: none;
@@ -102,9 +102,7 @@ margin-top: 50px;
 		padding: 0px;
 	}
     
-    .h_banner{
-        padding-bottom: 23.4375%;
-    }
+  
 
 }
 
@@ -151,5 +149,5 @@ footer .fbanner{
 	background-size:contain;
 	background-position: center center;
 	background-repeat: no-repeat;
-	height: 250px;
+	padding-bottom: 23.4375%;
 }
