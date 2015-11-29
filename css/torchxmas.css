@@ -12,7 +12,7 @@ margin-top: 50px;
 	background-size:contain;
 	background-position: center center;
 	background-repeat: no-repeat;
-	height: 250px;
+	padding-bottom: 26.3157%;
 }
 
 .link_1,.link_2,.link_3,.link_4,.link_5{
@@ -92,7 +92,7 @@ margin-top: 50px;
 		display: block;
 		margin: 0px;
 		padding: 0px;
-        margin-bottom: 5px;
+        margin-top: 5px;
 	}
 	.movie{
 		margin-bottom: 0px;
@@ -101,6 +101,10 @@ margin-top: 50px;
 	.phones{
 		padding: 0px;
 	}
+    
+    .h_banner{
+        padding-bottom: 23.4375%;
+    }
 
 }
 
