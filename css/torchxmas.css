@@ -15,7 +15,7 @@ margin-top: 50px;
 	height: 250px;
 }
 
-.link_1,.link_2,.link_3,.link_4{
+.link_1,.link_2,.link_3,.link_4,.link_5{
 	display: block;
 	background-color: transparent;
 	margin-bottom: 20px;
@@ -92,6 +92,7 @@ margin-top: 50px;
 		display: block;
 		margin: 0px;
 		padding: 0px;
+        margin-bottom: 5px;
 	}
 	.movie{
 		margin-bottom: 0px;
