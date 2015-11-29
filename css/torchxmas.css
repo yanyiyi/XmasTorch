@@ -103,7 +103,9 @@ padding-bottom: 20.315789%;
 		padding: 0px;
 	}
     
-  
+    #navbar{
+        float: left;
+    }
 
 }
 
